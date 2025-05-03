@@ -11,7 +11,7 @@ return function(color, color_special)
         use_undercurl = true,
         fg_end_of_buffer = color_special.main_background,
         fg_normal = color.gray8,
-        bg_normal = color_special.main_background,
+        bg_normal = color.black,
         fg_whitespace = color_special.whitespace,
 
         fg_icon = color.gray4,
