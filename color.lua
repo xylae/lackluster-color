@@ -2,12 +2,12 @@
 return {
     lack = "#708090",
     luster = "#DEEEED",
-    orange = "#B68464",
-    yellow = "#A49D66",
+    orange = "#8C6B8E", -- magenta
+    yellow = "#C3A773",
     green = "#708070",
     blue = "#7788AA",
-    red = "#6F5050",
-    none = "none",
+    red = "#8C5A52",
+    none = "#5C8B95", -- cyan
 
     black = "#000000",
     gray1 = "#080808",
